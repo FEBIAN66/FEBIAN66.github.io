@@ -1,4 +1,4 @@
-
+try {
     function time(time) {
 		time2 = new Date().getTime();
 		msec = time2 - Number(time);
@@ -91,3 +91,4 @@
 				}
 			})
 		}
+}
